@@ -2,3 +2,5 @@ new1
 new1
 new2
 new2
+hot-fix
+hot-fix
